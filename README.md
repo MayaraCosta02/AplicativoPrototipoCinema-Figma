@@ -1,1 +1,2 @@
 # AplicativoPrototipoCinema-Figma
+[https://github.com/MayaraCosta02/Prototipo-Aplicativo-de-Cinema/import](https://www.figma.com/proto/f82fbl3eNGy0MgsXVPrGLS/Untitled?type=design&node-id=108-25&t=GisTj0ylTGu9CCKM-1&scaling=scale-down&page-id=0%3A1&mode=design)https://www.figma.com/proto/f82fbl3eNGy0MgsXVPrGLS/Untitled?type=design&node-id=108-25&t=GisTj0ylTGu9CCKM-1&scaling=scale-down&page-id=0%3A1&mode=design
